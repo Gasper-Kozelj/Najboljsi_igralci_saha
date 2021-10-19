@@ -1,4 +1,4 @@
-# Najboljsi_igralci_saha
+# Najboljsi_igralci_šaha
 
 Analiziral bom prvih 5000 igralcev šaha glede
 na njihovo oceno na spletni strani [FIDE](https://ratings.fide.com/).
