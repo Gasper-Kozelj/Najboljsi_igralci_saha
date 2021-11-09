@@ -1,0 +1,335 @@
+ime,naslov,drzava,standard_rating,rapid_rating,blitz_rating,leto_rojstva
+"Kasparov, Garry",GM ,RUS,2812,2783,2644,1963
+"Ding, Liren",GM ,CHN,2799,2836,2788,1992
+"Caruana, Fabiano",GM ,USA,2791,2770,2765,1992
+"Aronian, Levon",GM ,ARM,2782,2761,2767,1982
+"Nepomniachtchi, Ian",GM ,RUS,2782,2798,2792,1990
+"Giri, Anish",GM ,NED,2774,2767,2778,1994
+"Grischuk, Alexander",GM ,RUS,2773,2763,2757,1983
+"So, Wesley",GM ,USA,2772,2782,2814,1993
+"Firouzja, Alireza",GM ,FRA,2770,2656,2810,2003
+"Vachier-Lagrave, Maxime",GM ,FRA,2766,2773,2838,1990
+"Mamedyarov, Shakhriyar",GM ,AZE,2765,2727,2754,1985
+"Radjabov, Teimour",GM ,AZE,2763,2747,2705,1987
+"Rapport, Richard",GM ,HUN,2763,2750,2754,1996
+"Duda, Jan-Krzysztof",GM ,POL,2756,2801,2792,1998
+"Kramnik, Vladimir",GM ,RUS,2753,2756,2712,1975
+"Dominguez Perez, Leinier",GM ,USA,2752,2722,2728,1983
+"Anand, Viswanathan",GM ,IND,2751,2748,2825,1969
+"Wang, Hao",GM ,CHN,2744,2750,2712,1989
+"Karjakin, Sergey",GM ,RUS,2743,2757,2657,1990
+"Nakamura, Hikaru",GM ,USA,2736,2836,2884,1987
+"Vitiugov, Nikita",GM ,RUS,2734,2580,2673,1987
+"Topalov, Veselin",GM ,BUL,2730,2668,2667,1975
+"Wei, Yi",GM ,CHN,2729,2752,2686,1999
+"Vidit, Santosh Gujrathi",GM ,IND,2727,2639,2739,1994
+"Andreikin, Dmitry",GM ,RUS,2724,2692,2736,1990
+"Harikrishna, Pentala",GM ,IND,2721,2705,2614,1986
+"Dubov, Daniil",GM ,RUS,2714,2735,2747,1996
+"Adams, Michael",GM ,ENG,2714,2670,2742,1971
+"Esipenko, Andrey",GM ,RUS,2713,2679,2592,2002
+"Alekseenko, Kirill",GM ,RUS,2710,2637,2663,1997
+"Le, Quang Liem",GM ,VIE,2709,2715,2774,1991
+"Tomashevsky, Evgeny",GM ,RUS,2708,2631,2695,1987
+"Shankland, Sam",GM ,USA,2708,2647,2660,1991
+"Maghsoodloo, Parham",GM ,IRI,2706,2516,2601,2000
+"Fedoseev, Vladimir",GM ,RUS,2704,2692,2716,1995
+"Vallejo Pons, Francisco",GM ,ESP,2704,2682,2644,1982
+"Yu, Yangyi",GM ,CHN,2704,2738,2808,1994
+"Van Foreest, Jorden",GM ,NED,2701,2563,2600,1999
+"Wojtaszek, Radoslaw",GM ,POL,2700,2743,2730,1987
+"Bu, Xiangzhi",GM ,CHN,2700,2642,2760,1985
+"Navara, David",GM ,CZE,2699,2706,2758,1985
+"Artemiev, Vladislav",GM ,RUS,2699,2714,2830,1998
+"Svidler, Peter",GM ,RUS,2694,2752,2709,1976
+"Sadler, Matthew D",GM ,ENG,2694,2673,2646,1974
+"Matlakov, Maxim",GM ,RUS,2691,2652,2652,1991
+"Salem, A.R. Saleh",GM ,UAE,2690,2729,2642,1993
+"Almasi, Zoltan",GM ,HUN,2687,2599,2585,1976
+"Eljanov, Pavel",GM ,UKR,2687,2641,2602,1983
+"Xiong, Jeffery",GM ,USA,2687,2729,2699,2000
+"Rausis, Igors",IM ,FID,,,,1961
+"Korobov, Anton",GM ,UKR,2684,2689,2718,1985
+"Jakovenko, Dmitry",GM ,RUS,2682,2684,2625,1983
+"Kryvoruchko, Yuriy",GM ,UKR,2681,2697,2617,1986
+"Amin, Bassem",GM ,EGY,2680,2614,2617,1988
+"Li, Chao b",GM ,CHN,2679,2645,2693,1989
+"Ivanchuk, Vasyl",GM ,UKR,2678,2686,2710,1969
+"Cheparinov, Ivan",GM ,BUL,2677,2621,2661,1986
+"Berkes, Ferenc",GM ,HUN,2676,2637,2676,1985
+"Robson, Ray",GM ,USA,2676,2605,2683,1994
+"Polgar, Judit",GM ,HUN,2675,2646,2736,1976
+"Nyzhnyk, Illya",GM ,UKR,2674,2658,2694,1996
+"Gelfand, Boris",GM ,ISR,2674,2648,2650,1968
+"Gyimesi, Zoltan",GM ,HUN,2674,,,1977
+"Shirov, Alexei",GM ,ESP,2673,2702,2640,1972
+"Mamedov, Rauf",GM ,AZE,2673,2690,2678,1988
+"Adhiban, B.",GM ,IND,2672,2626,2629,1992
+"Areshchenko, Alexander",GM ,UKR,2670,2588,2627,1986
+"Wang, Yue",GM ,CHN,2669,2710,2666,1987
+"Grandelius, Nils",GM ,SWE,2669,2652,2651,1993
+"Anton Guijarro, David",GM ,ESP,2669,2627,2613,1995
+"Sevian, Samuel",GM ,USA,2668,2586,,2000
+"Ni, Hua",GM ,CHN,2668,2647,2579,1983
+"Ragger, Markus",GM ,AUT,2668,2630,2541,1988
+"Kovalenko, Igor",GM ,LAT,2668,2649,2629,1988
+"Predke, Alexandr",GM ,RUS,2668,2648,2580,1994
+"McShane, Luke J",GM ,ENG,2667,2698,2591,1984
+"Guseinov, Gadir",GM ,AZE,2665,2692,2581,1986
+"Saric, Ivan",GM ,CRO,2665,2684,2575,1990
+"Sargissian, Gabriel",GM ,ARM,2664,2693,2596,1983
+"Sjugirov, Sanan",GM ,RUS,2663,2634,2653,1993
+"Leko, Peter",GM ,HUN,2663,2710,2738,1979
+"Ponkratov, Pavel",GM ,RUS,2662,2598,2642,1988
+"Tkachiev, Vladislav",GM ,FRA,2660,2673,2587,1973
+"Kasimdzhanov, Rustam",GM ,UZB,2659,2698,2693,1979
+"Oparin, Grigoriy",GM ,RUS,2659,2725,2604,1997
+"Inarkiev, Ernesto",GM ,RUS,2659,2678,2639,1985
+"Morozevich, Alexander",GM ,RUS,2659,2651,2636,1977
+"Van Kampen, Robin",GM ,NED,2658,2653,2478,1994
+Narayanan.S.L,GM ,IND,2658,2482,2570,1998
+"Jumabayev, Rinat",GM ,KAZ,2658,2562,2535,1989
+"Lautier, Joel",GM ,FRA,2658,,,1973
+"Hou, Yifan",GM WGM,CHN,2658,2621,2601,1994
+"Kamsky, Gata",GM ,USA,2657,2717,2645,1974
+"Sarana, Alexey",GM ,RUS,2656,2663,2689,2000
+"Volokitin, Andrei",GM ,UKR,2656,2631,2606,1986
+"Demchenko, Anton",GM ,RUS,2655,2666,2583,1987
+"Cori, Jorge",GM ,PER,2655,2604,2588,1995
+"Najer, Evgeniy",GM ,RUS,2654,2565,2551,1977
+"Jones, Gawain C B",GM ,ENG,2654,2604,2657,1987
+"Malakhov, Vladimir",GM ,RUS,2652,2670,2654,1980
+"Nisipeanu, Liviu-Dieter",GM ,GER,2651,2636,2637,1976
+"Deac, Bogdan-Daniel",GM ,ROU,2651,2556,2605,2001
+"Rakhmanov, Aleksandr",GM ,RUS,2650,2633,2554,1989
+Nihal Sarin,GM ,IND,2650,2500,2667,2004
+"Nabaty, Tamir",GM ,ISR,2649,2636,2627,1991
+"Tari, Aryan",GM ,NOR,2649,2542,2656,1999
+"Melkumyan, Hrant",GM ,ARM,2649,2686,2604,1989
+"Howell, David W L",GM ,ENG,2648,2624,2666,1990
+"Swiercz, Dariusz",GM ,USA,2647,2649,2689,1994
+"Bluebaum, Matthias",GM ,GER,2647,2575,2681,1997
+"Shevchenko, Kirill",GM ,UKR,2647,2508,2574,2002
+"Bacrot, Etienne",GM ,FRA,2647,2720,2673,1983
+"Lagarde, Maxime",GM ,FRA,2647,2688,2622,1994
+"Socko, Bartosz",GM ,POL,2646,2562,2571,1978
+"Abdusattorov, Nodirbek",GM ,UZB,2646,2593,2690,2004
+"Donchenko, Alexander",GM ,GER,2645,2535,2490,1998
+"Ma, Qun",GM ,CHN,2645,2570,2602,1991
+"Naiditsch, Arkadij",GM ,AZE,2645,2571,2577,1985
+"Ipatov, Alexander",GM ,TUR,2644,2584,2534,1993
+"Salov, Valery",GM ,RUS,2644,,,1964
+"Gustafsson, Jan",GM ,GER,2643,2641,2548,1979
+"Paravyan, David",GM ,RUS,2642,2671,2639,1998
+"Nguyen, Ngoc Truong Son",GM ,VIE,2641,2612,2596,1990
+"Bauer, Christian",GM ,FRA,2641,2643,2727,1977
+"Zhang, Zhong",GM ,CHN,2640,2475,2535,1978
+"Onischuk, Alexander",GM ,USA,2640,2693,2650,1975
+"Sasikiran, Krishnan",GM ,IND,2640,2577,2552,1981
+"Tabatabaei, M. Amin",GM ,IRI,2639,2425,2555,2001
+"Negi, Parimarjan",GM ,IND,2639,2613,2613,1993
+"Keymer, Vincent",GM ,GER,2639,2542,2557,2004
+"Rublevsky, Sergei",GM ,RUS,2637,2661,2608,1974
+"Grigoryan, Karen H.",GM ,ARM,2637,2660,2617,1995
+"Kuzubov, Yuriy",GM ,UKR,2637,2643,2592,1990
+"Azmaiparashvili, Zurab",GM ,GEO,2637,2619,2608,1960
+"Bruzon Batista, Lazaro",GM ,USA,2636,2619,2709,1982
+"Gledura, Benjamin",GM ,HUN,2635,2619,2326,1999
+"Niemann, Hans Moke",GM ,USA,2635,2327,2592,2003
+"Dreev, Aleksey",GM ,RUS,2635,2621,2633,1969
+"Laznicka, Viktor",GM ,CZE,2634,2639,2572,1988
+"Piorun, Kacper",GM ,POL,2634,2547,2535,1991
+"Riazantsev, Alexander",GM ,RUS,2634,2632,2520,1985
+"Mareco, Sandro",GM ,ARG,2634,2553,2546,1987
+"Kovalev, Vladislav",GM ,FID,2634,2647,2573,1994
+"Abasov, Nijat",GM ,AZE,2634,2567,2522,1995
+"Ganguly, Surya Shekhar",GM ,IND,2633,2646,2563,1983
+"Ponomariov, Ruslan",GM ,UKR,2633,2673,2703,1983
+"Lenic, Luka",GM ,SLO,2633,2666,2659,1988
+"Short, Nigel D",GM ,ENG,2633,2537,2619,1965
+"Motylev, Alexander",GM ,RUS,2633,2703,2540,1979
+"Afromeev, Vladimir",FM ,RUS,2633,,2623,1954
+"Santos Latasa, Jaime",GM ,ESP,2633,2616,2561,1996
+"Papaioannou, Ioannis",GM ,GRE,2633,2614,2666,1976
+"Moussard, Jules",GM ,FRA,2632,2722,2644,1995
+"Vocaturo, Daniele",GM ,ITA,2632,2584,2565,1989
+"Meier, Georg",GM ,URU,2631,2654,2633,1987
+"Kovalyov, Anton",GM ,CAN,2631,2585,2583,1992
+"Bareev, Evgeny",GM ,CAN,2631,2659,2678,1966
+"Fressinet, Laurent",GM ,FRA,2630,2676,2677,1981
+"Pichot, Alan",GM ,ARG,2630,2523,2600,1998
+"Karthikeyan, Murali",GM ,IND,2630,2388,2579,1999
+"Granda Zuniga, Julio E",GM ,PER,2630,2609,2624,1967
+"Durarbayli, Vasif",GM ,AZE,2629,2532,2522,1992
+"Popov, Ivan",GM ,RUS,2629,2616,2578,1990
+"Sadvakasov, Darmen",GM ,KAZ,2629,2601,2599,1979
+"Gupta, Abhijeet",GM ,IND,2628,2551,2549,1989
+"Sutovsky, Emil",GM ,ISR,2628,2598,2516,1977
+"Landa, Konstantin",GM ,RUS,2628,2591,2553,1972
+"Sargsyan, Shant",GM ,ARM,2628,2344,2537,2002
+"Svane, Rasmus",GM ,GER,2628,2677,2643,1997
+Erigaisi Arjun,GM ,IND,2627,2323,2616,2003
+"Yilmaz, Mustafa",GM ,TUR,2626,2502,2518,1992
+"Chigaev, Maksim",GM ,RUS,2626,2593,2610,1996
+"Fridman, Daniel",GM ,GER,2626,2542,2663,1976
+"Kozul, Zdenko",GM ,CRO,2625,2526,2600,1966
+"Lupulescu, Constantin",GM ,ROU,2624,2628,2549,1984
+"Piket, Jeroen",GM ,NED,2624,,,1969
+"Martirosyan, Haik M.",GM ,ARM,2624,2377,2656,2000
+"Lenderman, Aleksandr",GM ,USA,2624,2646,2651,1989
+"Moranda, Wojciech",GM ,POL,2623,2575,2613,1988
+"Amonatov, Farrukh",GM ,TJK,2622,2671,2636,1978
+"Naroditsky, Daniel",GM ,USA,2622,2639,2608,1995
+"Onyshchuk, Volodymyr",GM ,UKR,2622,2687,2603,1991
+"Hovhannisyan, Robert",GM ,ARM,2622,2613,2669,1991
+"L'Ami, Erwin",GM ,NED,2622,2647,2676,1985
+"Kollars, Dmitrij",GM ,GER,2622,2455,2584,1999
+"Idani, Pouya",GM ,IRI,2621,2509,2610,1995
+"Yakubboev, Nodirbek",GM ,UZB,2621,2425,2464,2002
+"Zherebukh, Yaroslav",GM ,USA,2621,2620,2520,1993
+Gukesh D,GM ,IND,2621,2050,2376,2006
+"Sethuraman, S.P.",GM ,IND,2620,2556,2477,1993
+"Seirawan, Yasser",GM ,USA,2620,2647,2523,1960
+"Shtembuliak, Evgeny",GM ,UKR,2620,2444,2504,1999
+"Ivic, Velimir",GM ,SRB,2620,2357,2509,2002
+"Zhao, Jun",GM ,CHN,2619,2638,2547,1986
+"Bok, Benjamin",GM ,NED,2619,2608,2658,1995
+"Huschenbeth, Niclas",GM ,GER,2619,2572,2605,1992
+"Mastrovasilis, Dimitrios",GM ,GRE,2619,2534,2577,1983
+"Bartel, Mateusz",GM ,POL,2619,2543,2560,1985
+"Movsesian, Sergei",GM ,ARM,2618,2667,2632,1978
+"Nielsen, Peter Heine",GM ,DEN,2618,2669,2546,1973
+"Karpov, Anatoly",GM ,RUS,2617,2583,2627,1951
+"Drozdovskij, Yuri",GM ,UKR,2616,,2660,1984
+"Lu, Shanglei",GM ,CHN,2616,2613,2646,1995
+"Smirin, Ilia",GM ,ISR,2616,2678,2499,1968
+"Kravtsiv, Martyn",GM ,UKR,2616,2675,2660,1990
+"Zhou, Jianchao",GM ,CHN,2616,2570,2462,1988
+"Khairullin, Ildar",GM ,RUS,2615,2671,2657,1990
+"Grachev, Boris",GM ,RUS,2615,2656,2555,1986
+"Ter-Sahakyan, Samvel",GM ,ARM,2615,2573,2551,1993
+"Erdos, Viktor",GM ,HUN,2615,2601,2599,1987
+"Chernin, Alexander",GM ,HUN,2614,,,1960
+"Akopian, Vladimir",GM ,USA,2614,2668,2641,1971
+"Illescas Cordoba, Miguel",GM ,ESP,2613,2612,,1965
+"Kononenko, Dmitry",GM ,UKR,2613,2546,2706,1988
+"Indjic, Aleksandar",GM ,SRB,2612,2544,2643,1995
+"Galkin, Alexander",GM ,RUS,2611,2498,2510,1979
+"Aravindh, Chithambaram VR.",GM ,IND,2611,2572,2561,1999
+"Van Wely, Loek",GM ,NED,2611,2635,2593,1972
+Praggnanandhaa R,GM ,IND,2610,1821,2599,2005
+"Hodgson, Julian M",GM ,ENG,2609,,,1963
+"Markus, Robert",GM ,SRB,2609,2625,2632,1983
+"Sadhwani, Raunak",GM ,IND,2609,2454,2517,2005
+"Salgado Lopez, Ivan",GM ,ESP,2609,2550,2605,1991
+"Zvjaginsev, Vadim",GM ,RUS,2609,2539,2674,1976
+"Khalifman, Alexander",GM ,RUS,2608,2522,,1966
+"Alterman, Boris",GM ,ISR,2608,2601,,1970
+"Martinez Alcantara, Jose Eduardo",GM ,PER,2608,2645,2690,1999
+"Hammer, Jon Ludvig",GM ,NOR,2608,2647,2607,1990
+"Warmerdam, Max",GM ,NED,2608,2412,2537,2000
+"Henriquez Villagra, Cristobal",GM ,CHI,2608,2568,2583,1996
+"Hakobyan, Aram",GM ,ARM,2607,2476,2557,2001
+"Banusz, Tamas",GM ,HUN,2607,2554,2602,1989
+"Antipov, Mikhail Al.",GM ,RUS,2607,2644,2587,1997
+"Pilavov, Georgy",GM ,UKR,2607,2478,2488,1974
+"Akobian, Varuzhan",GM ,USA,2606,2639,2634,1983
+"Khismatullin, Denis",GM ,RUS,2606,2523,2543,1984
+"Hansen, Eric",GM ,CAN,2606,2579,2568,1992
+"Vescovi, Giovanni",GM ,BRA,2606,2609,2593,1978
+"Pashikian, Arman",GM ,ARM,2606,2585,2536,1987
+"Iturrizaga Bonelli, Eduardo",GM ,ESP,2606,2634,2646,1989
+"Stellwagen, Daniel",GM ,NED,2605,,,1987
+"Moiseenko, Alexander",GM ,UKR,2605,2575,2549,1980
+"Puranik, Abhimanyu",GM ,IND,2604,2472,2437,2000
+"Bortnyk, Olexandr",GM ,UKR,2604,2643,2723,1996
+"Ivanisevic, Ivan",GM ,SRB,2604,2593,2499,1977
+"Delgado Ramirez, Neuris",GM ,PAR,2604,2653,2622,1981
+"Goryachkina, Aleksandra",GM WGM,RUS,2604,2521,2441,1998
+"Thybo, Jesper Sondergaard",GM ,DEN,2604,2401,2195,1999
+"Mamedov, Nidjat",GM ,AZE,2604,2624,2645,1985
+"Santos Ruiz, Miguel",GM ,ESP,2603,2440,2527,1999
+"Sakaev, Konstantin",GM ,RUS,2603,2510,2632,1974
+"Lysyj, Igor",GM ,RUS,2603,2601,2611,1987
+"Ye, Jiangchuan",GM ,CHN,2602,,,1960
+"Alekseev, Evgeny",GM ,RUS,2602,2616,2608,1985
+"Adly, Ahmed",GM ,EGY,2602,2597,2683,1987
+"Gharamian, Tigran",GM ,FRA,2602,2650,2660,1984
+"Izoria, Zviad",GM ,USA,2602,2579,2626,1984
+"Milov, Vadim",GM ,SUI,2601,2635,2519,1972
+"Vladimirov, Yevgeniy",GM ,KAZ,2601,2547,2512,1957
+"Baramidze, David",GM ,GER,2601,,,1988
+"Smirnov, Anton",GM ,AUS,2600,2367,2647,2001
+"Kobalia, Mikhail",GM ,RUS,2600,2543,2543,1978
+"Vaibhav, Suri",GM ,IND,2600,2543,2381,1997
+"Quesada Perez, Yuniesky",GM ,USA,2600,2622,2622,1984
+"Petrosyan, Manuel",GM ,ARM,2599,2514,2553,1998
+"Brkic, Ante",GM ,CRO,2599,2597,2602,1988
+"Belov, Vladimir",GM ,RUS,2598,2510,2501,1984
+"Zubov, Alexander",GM ,UKR,2598,2688,2685,1983
+"Gabuzyan, Hovhannes",GM ,ARM,2598,2535,2580,1995
+"Najdoski, Toni",GM ,MKD,2598,,,1970
+"Liang, Awonder",GM ,USA,2597,2397,2379,2003
+"Efimenko, Zahar",GM ,UKR,2597,2609,2601,1985
+"Vovk, Andriy",GM ,UKR,2597,2538,2535,1991
+"Gozzoli, Yannick",GM ,FRA,2597,2626,2609,1983
+"Zeng, Chongsheng",GM ,CHN,2597,2499,2376,1993
+"Miroshnichenko, Evgenij",GM ,UKR,2597,2573,2539,1978
+"Zhou, Weiqi",GM ,CHN,2597,2596,2590,1986
+"Azarov, Sergei",GM ,BLR,2596,2580,2494,1983
+"Dautov, Rustem",GM ,GER,2596,,2581,1965
+"Hansen, Curt",GM ,DEN,2596,2596,,1964
+"Borisek, Jure",GM ,SLO,2595,2552,2561,1986
+"Fedorchuk, Sergey A.",GM ,UKR,2594,2566,2534,1981
+"Van den Doel, Erik",GM ,NED,2594,2515,2468,1979
+"Nguyen, Thai Dai Van",GM ,CZE,2594,2488,2446,2001
+"Bachmann, Axel",GM ,PAR,2594,2618,2642,1989
+"Solak, Dragan",GM ,TUR,2594,,2510,1980
+"Bai, Jinshi",GM ,CHN,2593,2492,2516,1999
+"Zilka, Stepan",GM ,CZE,2593,2474,2440,1988
+Gopal G.N.,GM ,IND,2593,2523,2559,1989
+"Bernadskiy, Vitaliy",GM ,UKR,2592,2616,2510,1994
+"Leitao, Rafael",GM ,BRA,2592,2628,2609,1979
+"Hellers, Ferdinand",GM ,SWE,2592,2521,2488,1969
+"Banikas, Hristos",GM ,GRE,2592,2615,2601,1978
+"Predojevic, Borki",GM ,BIH,2592,2587,2632,1987
+"Filippov, Anton",GM ,UZB,2592,2494,2514,1986
+"Hess, Robert",GM ,USA,2591,2621,2557,1991
+"Rodshtein, Maxim",GM ,ISR,2591,2624,2555,1989
+"Chadaev, Nikolai",GM ,RUS,2591,2629,2733,1988
+"Peng, Xiaomin",GM ,CHN,2591,,,1973
+"Braun, Arik",GM ,GER,2591,2611,2535,1988
+"Sanal, Vahap",GM ,TUR,2590,2509,2499,1998
+"Bacallao Alonso, Yusnel",GM ,CUB,2590,2479,2557,1988
+"Bluvshtein, Mark",GM ,CAN,2590,,,1988
+"Gajewski, Grzegorz",GM ,POL,2589,2496,2539,1985
+"Wen, Yang",GM ,CHN,2588,2562,2596,1988
+"Baklan, Vladimir",GM ,UKR,2588,2640,2610,1978
+"Edouard, Romain",GM ,FRA,2588,2616,2521,1990
+"Doettling, Fabian",GM ,GER,2587,,,1980
+"Sindarov, Javokhir",GM ,UZB,2587,2353,2465,2005
+"Mchedlishvili, Mikheil",GM ,GEO,2587,2589,2618,1979
+"Maletin, Pavel",GM ,RUS,2586,2634,2544,1986
+"Koneru, Humpy",GM WGM,IND,2586,2483,2483,1987
+"Timofeev, Artyom",GM ,RUS,2586,2591,2628,1985
+"Gurevich, Ilya",GM ,USA,2586,,,1972
+Aryan Chopra,GM ,IND,2585,,,2001
+"Iordachescu, Viorel",GM ,MDA,2585,2623,2534,1977
+"Flores, Diego",GM ,ARG,2584,2578,2596,1982
+"Goganov, Aleksey",GM ,RUS,2584,2583,2533,1991
+"Reinderman, Dimitri",GM ,NED,2584,,2552,1972
+"Giorgadze, Giorgi",GM ,GEO,2584,2550,2562,1964
+"Sokolov, Ivan",GM ,NED,2584,2626,2526,1968
+"Bindrich, Falko",GM ,GER,2584,2548,2566,1990
+"Oleksiyenko, Mykhaylo",GM ,UKR,2584,2523,2552,1986
+"Tomczak, Jacek",GM ,POL,2584,2533,2598,1990
+"Heimann, Andreas",GM ,GER,2584,2616,2690,1992
+"Yin, Hao",IM ,CHN,2583,,,1979
+"Gareyev, Timur",GM ,USA,2583,2578,2588,1988
+"Cornette, Matthieu",GM ,FRA,2583,2546,2500,1985
+"Kacheishvili, Giorgi",GM ,GEO,2582,2516,2582,1977
+"Christiansen, Johan-Sebastian",GM ,NOR,2582,2522,2593,1998
+"Jobava, Baadur",GM ,GEO,2582,2679,2731,1983
+"Papp, Gabor",GM ,HUN,2581,2540,2587,1987
+"Cruz, Cristhian",GM ,PER,2581,2516,2502,1992
+"Shimanov, Aleksandr",GM ,RUS,2581,2616,2570,1992

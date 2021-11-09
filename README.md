@@ -1,6 +1,6 @@
 # Najboljsi_igralci_šaha
 
-Analiziral bom prvih 5000 igralcev šaha glede
+Analiziral bom prvih 335 igralcev šaha glede
 na njihovo oceno na spletni strani [FIDE](https://ratings.fide.com/).
 
 Za vsakega igralca bom pridobil podatke:
